@@ -1,0 +1,17 @@
+C:\trabalho_emerson\bin\Debug\Database1.mdf
+C:\trabalho_emerson\bin\Debug\Database1_log.ldf
+C:\trabalho_emerson\bin\Debug\trabalho_emerson.exe.config
+C:\trabalho_emerson\bin\Debug\trabalho_emerson.exe
+C:\trabalho_emerson\bin\Debug\trabalho_emerson.pdb
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.csproj.AssemblyReference.cache
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.csproj.SuggestedBindingRedirects.cache
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.frmPrincipal.resources
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.FormSplash.resources
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.Properties.Resources.resources
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.csproj.GenerateResource.cache
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.csproj.CoreCompileInputs.cache
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.exe
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.pdb
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.FormCliente.resources
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.FormProduto.resources
+C:\trabalho_emerson\obj\Debug\trabalho_emerson.FormVenda.resources
